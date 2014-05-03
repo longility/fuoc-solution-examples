@@ -1,0 +1,7 @@
+.flash-show > .flash-placeholder {
+	display: none;
+}
+
+.flash-container > *:not(.flash-placeholder) {
+	display: none;
+}
